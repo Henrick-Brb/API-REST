@@ -8,10 +8,12 @@ API-REST desenvolvida com Node.js para gerenciamento de **seleções de times**.
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" style="background-color: white; padding: 5px; border-radius: 5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" height="40" alt="Insomnia"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" height="40" alt="Insomnia"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-plain.svg" height="40" alt="Nodemon"/>
 </p>
 
 ---
@@ -83,7 +85,7 @@ DELETE http://localhost:3000/selecoes/8
 
 ## 📜 Licença
 
-Este projeto está licenciado sob a **LICENSE**.  
+Este projeto está licenciado sob a **[LICENSE](LICENSE)**.  
 Sinta-se livre para estudar, modificar e utilizar como quiser.
 
 ---
